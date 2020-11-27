@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="165" viewBox="0 0 600 165" fill="none">
+<img src="<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="165" viewBox="0 0 600 165" fill="none">
     <rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#E4E2E2" width="494" fill="#ffffff" stroke-opacity="1"/>
     <style>
       .words {
@@ -60,4 +60,4 @@ Here are some ideas to get you started:
         <text id="time" text-anchor="middle" x="42%" y="62%" class="words words-2">tzcteddy</text>
         <text id="time" text-anchor="middle" x="42%" y="62%" class="words words-3">tzcteddy</text>
         <text id="time" text-anchor="middle" x="42%" y="62%" class="words words-4">tzcteddy</text>
-  </svg>
+  </svg>"/>
