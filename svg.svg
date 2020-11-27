@@ -39,8 +39,8 @@
       }
       }
     </style>
-        <text id="time" text-anchor="middle" x="42%" y="62%" class="words words-1">tzcteddy</text>
-        <text id="time" text-anchor="middle" x="42%" y="62%" class="words words-2">tzcteddy</text>
-        <text id="time" text-anchor="middle" x="42%" y="62%" class="words words-3">tzcteddy</text>
-        <text id="time" text-anchor="middle" x="42%" y="62%" class="words words-4">tzcteddy</text>
+        <text style="font-size:15vh;stroke-width:4px;" id="time" text-anchor="middle" x="42%" y="62%" class="words words-1">tzcteddy</text>
+        <text style="font-size:15vh;stroke-width:4px;" id="time" text-anchor="middle" x="42%" y="62%" class="words words-2">tzcteddy</text>
+        <text style="font-size:15vh;stroke-width:4px;" id="time" text-anchor="middle" x="42%" y="62%" class="words words-3">tzcteddy</text>
+        <text style="font-size:15vh;stroke-width:4px;" id="time" text-anchor="middle" x="42%" y="62%" class="words words-4">tzcteddy</text>
   </svg>
